@@ -1,4 +1,4 @@
-Please see blog post about Chapter 1 [here](https://crazyivan.blog/). 
+Please see blog post about Chapter 1 [here](https://crazyivan.blog/my-attempt-at-event-modeling-scott-wlaschins-f-book-domain-modeling-made-functional-chapter-1). 
 
 The MIRO board can be viewed [here](https://miro.com/app/board/uXjVPlXNPQk=/?share_link_id=128081963006). 
 
